@@ -1,14 +1,9 @@
+import { loginWithValidCredentials } from './functionlogin'; // Function Login imported
+
 describe('Login Test', () => {
   it('Log in with valid credentials', () => {
-    // Visitar la página de inicio de sesión
-    cy.visit('https://www.saucedemo.com/');
-
-    // Ingresar el nombre de usuario y contraseña
-    cy.get('#user-name').type('standard_user');
-    cy.get('#password').type('secret_sauce');
-
-    // Hacer clic en el botón de inicio de sesión
-    cy.get('#login-button').click();
+    // Llama a la función para iniciar sesión
+    loginWithValidCredentials();
 
     // Verificar que se haya redirigido a la página de productos
     cy.url().should('include', '/inventory.html');
