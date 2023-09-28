@@ -16,9 +16,9 @@
 <br>Once you got the bellow image, you can start your testing.</br>
 <br>![image](https://github.com/Osalrara1984/Cypress-Arkus/assets/137956327/3d92f356-8767-474a-9b0d-71c21e34c6ee)</br>
 
-<br>For the reporter I used Mochawesome, for more informatio to install this reporter check the next link</br>
+<br>For the reporter I used Mochawesome, for more information to install this reporter check the next link</br>
 <br>https://automationqahub.com/how-to-generate-html-report-in-cypress-framework/</br>
-<br>Once you have install Mochawesome, into of terminal of your compilator type the next command npx cypress run</br>
+<br>Once you have installed Mochawesome, into of terminal of your compilator type the next command npx cypress run</br>
 <br>Wait for the test in your terminal, after finished the test you can open the file html created into folder created for mochawesome</br>
 <br>Open the file "index.html" and you can see the report</br>
 <br>![msedge_jYoUyR0DDC](https://github.com/Osalrara1984/Cypress-Autom-Challenge/assets/137956327/8cf4cc1e-3542-41f7-9a26-aa90f5833561)</br>
