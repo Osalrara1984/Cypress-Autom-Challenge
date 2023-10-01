@@ -22,3 +22,5 @@
 <br>Wait for the test in your terminal, after finished the test you can open the file html created into folder created for mochawesome</br>
 <br>Open the file "index.html" and you can see the report</br>
 <br>![msedge_jYoUyR0DDC](https://github.com/Osalrara1984/Cypress-Autom-Challenge/assets/137956327/8cf4cc1e-3542-41f7-9a26-aa90f5833561)</br>
+<br>Challenge QA Automation video demo</br>
+<br>[<](https://sukrasoft-my.sharepoint.com/:v:/g/personal/oramirez_arkusnexus_com/EUV7goUUZ7ZFh4xw4snHbwMBfRSUgRutX5Rk0cR5xr4h4A?e=WXRgoq)https://sukrasoft-my.sharepoint.com/:v:/g/personal/oramirez_arkusnexus_com/EUV7goUUZ7ZFh4xw4snHbwMBfRSUgRutX5Rk0cR5xr4h4A?e=WXRgoq/br>
